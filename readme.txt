@@ -1,0 +1,1 @@
+Read data from STM32F103RCT6, and send data to Raspberry via UART and from Raspberry send data to Webserver via MQTT
